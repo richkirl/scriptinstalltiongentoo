@@ -41,7 +41,7 @@ tar xJvpf stage3-*.tar.xz
 
 echo 'USE="python"' >> /mnt/gentoo/etc/portage/make.conf
 
-echo 'MAKEOPTS="-j13"' >> /mnt/gentoo/etc/portage/make.conf
+echo 'MAKEOPTS="-j9"' >> /mnt/gentoo/etc/portage/make.conf
 
 echo 'LINGUAS="ru"' >> /mnt/gentoo/etc/portage/make.conf
 
