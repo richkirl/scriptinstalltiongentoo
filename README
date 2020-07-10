@@ -2,3 +2,7 @@
 change mountpoints etc : "/dev/sda....."
                          "MAKEOPTS=..." you cpucores+1
 
+Manual config ethernet
+              git
+              eix
+              syslog...
