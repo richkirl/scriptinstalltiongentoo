@@ -7,7 +7,7 @@ fsboot='/dev/sda4'
 
 mntgentoo='/mnt/gentoo'
 
-mntswapgent='dev/sda5'
+mntswapgent='/dev/sda5'
 
 mntbootgentoo='/mnt/gentoo/boot/EFI'
 
@@ -31,7 +31,7 @@ mount $fsroot $mntbootgentoo
 
 cd $mntgentoo
 
-echo copy next link paste to browser and select stage3 tar and copy adress for stage3 and paste link to stage3 in console for download stage3*tar.xz
+echo copy next link paste to browser and select stage3 tar and copy adress for stage3 and paste link to stage3 in console for download stage3*tar.xz http://gentoo.osuosl.org/releases/amd64/autobuilds/current-stage3-amd64/
 
 read download
 
