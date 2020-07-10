@@ -9,3 +9,7 @@ Manual config ethernet
 
 + emerge -av x11-base/xorg-server x11-base/xorg-drivers x11-base/xorg-x11
 + emerge -av dwm dmenu surf emacs
+
+source :
+https://www.linuxtricks.fr/wiki/installer-gentoo-facilement
+https://www.linuxtricks.fr/wiki/installer-gentoo-facilement-environnement-de-bureau
