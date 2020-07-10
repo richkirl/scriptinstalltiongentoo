@@ -1,2 +1,4 @@
 #Script for install gentoo
+change mountpoints etc : "/dev/sda....."
+                         "MAKEOPTS=..." you cpucores+1
 
