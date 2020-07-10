@@ -1,15 +1,15 @@
 #!/bin/sh
 
 
-fsroot='/dev/sda6'
+fsroot="/dev/sda6"
 
-fsboot='/dev/sda4'
+fsboot="/dev/sda4"
 
-mntgentoo='/mnt/gentoo'
+mntgentoo="/mnt/gentoo"
 
-mntswapgent='/dev/sda5'
+mntswapgent="/dev/sda5"
 
-mntbootgentoo='/mnt/gentoo/boot/EFI'
+mntbootgentoo="/mnt/gentoo/boot/EFI"
 
 
 mkfs.fat -F32 $fsboot
