@@ -6,3 +6,6 @@ Manual config ethernet
               git
               eix
               syslog...
+
++ emerge -av x11-base/xorg-server x11-base/xorg-drivers x11-base/xorg-x11
++ emerge -av dwm dmenu surf emacs
