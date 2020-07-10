@@ -16,7 +16,7 @@ echo '/dev/sda6               /               ext4            defaults,noatime  
 
 echo '/dev/sda4              /boot/EFI           vfat            defaults         0 0' >> /etc/fstab
 
-echo '/dev/sda3               none            swap            sw              0 0' >> /etc/fstab
+echo '/dev/sda5               none            swap            sw              0 0' >> /etc/fstab
 
 emerge -a gentoo-sources
 
